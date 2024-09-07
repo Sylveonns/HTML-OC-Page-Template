@@ -5,3 +5,5 @@ This is a code created for people to use on their own websites, like neocities, 
 Included in the code as well is a comment widget for people to leave comments on your ocs, i did not create this comment widget, instructions for setting it up and credit to the creator are on this website https://virtualobserver.moe/ayano/comment-widget though you can always simply remove the comment widget if you don't want it, or replace it with one of your choosing if you know how to. 
 
 I plan to update this more as I update my own oc gallery on my page, which means eventually templates for stuff like worldbuilding will be available too, but for now this is just the base code intended only for ocs
+
+ALSO AN IMPORTANT NOTE: I code using firefox, and i sometimes forget to test how things look on other browsers. If you use chrome there is a chance that some of it might look weird. I dont really know how to fix that, and I would suggest asking the neocities discord for help there
